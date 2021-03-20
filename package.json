@@ -10,7 +10,7 @@
     "dev": "nodemon -w ./dist index.js"
   },
   "keywords": [],
-  "author": "Nobir",
+  "author": "Binnash",
   "repository": {
     "url": "https://github.com/nobir/discord-bot-test001"
   },
